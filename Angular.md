@@ -8,3 +8,6 @@ UI Components for Angular.
 
 # [angular-gantt](https://github.com/angular-gantt/angular-gantt)
 Gantt chart component for AngularJS.
+
+# [ngx-translate](https://github.com/ngx-translate/core)
+The internationalization (i18n) library for Angular.
